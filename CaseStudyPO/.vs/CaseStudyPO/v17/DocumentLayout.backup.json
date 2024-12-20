@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|c:\\users\\lenovo\\downloads\\shubha k c_postoffice_334841\\shubha k c_postoffice_334841\\casestudypo\\casestudypo\\deletepostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\deletepostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\editpostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\editpostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\editpostofficeaccount.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\editpostofficeaccount.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\editpostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\editpostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\detailspostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\detailspostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\deletepostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\deletepostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\createpostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\createpostofficeaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\detailspostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\detailspostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\detailspostofficeaccount.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\detailspostofficeaccount.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\postdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\postdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\createpostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\createpostofficeaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\casestudypo\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{ECC74DAD-EC39-497C-88F6-818008F756DA}|CaseStudyPO\\CaseStudyPO.csproj|solutionrelative:casestudypo\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Default.aspx",
+              "RelativeDocumentMoniker": "CaseStudyPO\\Default.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Default.aspx",
+              "RelativeToolTip": "CaseStudyPO\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T07:20:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailsPostOfficeAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DetailsPostOfficeAccount.aspx",
+              "RelativeDocumentMoniker": "CaseStudyPO\\DetailsPostOfficeAccount.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DetailsPostOfficeAccount.aspx",
+              "RelativeToolTip": "CaseStudyPO\\DetailsPostOfficeAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T07:39:56.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\PostDataAccess.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\PostDataAccess.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\PostDataAccess.cs",
+              "RelativeToolTip": "CaseStudyPO\\PostDataAccess.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:02:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPostOfficeAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\EditPostOfficeAccount.aspx",
+              "RelativeDocumentMoniker": "CaseStudyPO\\EditPostOfficeAccount.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\EditPostOfficeAccount.aspx",
+              "RelativeToolTip": "CaseStudyPO\\EditPostOfficeAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T07:46:41.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Site.Master",
+              "RelativeDocumentMoniker": "CaseStudyPO\\Site.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Site.Master",
+              "RelativeToolTip": "CaseStudyPO\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T09:46:33.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailsPostOfficeAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DetailsPostOfficeAccount.aspx.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\DetailsPostOfficeAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DetailsPostOfficeAccount.aspx.cs",
+              "RelativeToolTip": "CaseStudyPO\\DetailsPostOfficeAccount.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:42:34.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetailsPostOfficeAccount.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DetailsPostOfficeAccount.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\DetailsPostOfficeAccount.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DetailsPostOfficeAccount.aspx.designer.cs",
+              "RelativeToolTip": "CaseStudyPO\\DetailsPostOfficeAccount.aspx.designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:18:27.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditPostOfficeAccount.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\EditPostOfficeAccount.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\EditPostOfficeAccount.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\EditPostOfficeAccount.aspx.designer.cs",
+              "RelativeToolTip": "CaseStudyPO\\EditPostOfficeAccount.aspx.designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:19:50.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditPostOfficeAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\EditPostOfficeAccount.aspx.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\EditPostOfficeAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\EditPostOfficeAccount.aspx.cs",
+              "RelativeToolTip": "CaseStudyPO\\EditPostOfficeAccount.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:48:39.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreatePostOfficeAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\CreatePostOfficeAccount.aspx.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\CreatePostOfficeAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\CreatePostOfficeAccount.aspx.cs",
+              "RelativeToolTip": "CaseStudyPO\\CreatePostOfficeAccount.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:35:50.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Default.aspx.cs",
+              "RelativeToolTip": "CaseStudyPO\\Default.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:26:22.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePostOfficeAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\CreatePostOfficeAccount.aspx",
+              "RelativeDocumentMoniker": "CaseStudyPO\\CreatePostOfficeAccount.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\CreatePostOfficeAccount.aspx",
+              "RelativeToolTip": "CaseStudyPO\\CreatePostOfficeAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T07:31:31.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletePostOfficeAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DeletePostOfficeAccount.aspx",
+              "RelativeDocumentMoniker": "CaseStudyPO\\DeletePostOfficeAccount.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DeletePostOfficeAccount.aspx",
+              "RelativeToolTip": "CaseStudyPO\\DeletePostOfficeAccount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T09:37:28.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "CaseStudyPO\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Site.Mobile.Master",
+              "RelativeToolTip": "CaseStudyPO\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T09:49:58.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Global.asax.cs",
+              "RelativeToolTip": "CaseStudyPO\\Global.asax.cs",
+              "ViewState": "AgIAAAkAAABwAAAAAEAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:50:01.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Web.config",
+              "RelativeDocumentMoniker": "CaseStudyPO\\Web.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\Web.config",
+              "RelativeToolTip": "CaseStudyPO\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T15:59:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePostOfficeAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DeletePostOfficeAccount.aspx.cs",
+              "RelativeDocumentMoniker": "CaseStudyPO\\DeletePostOfficeAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\shubha K C_Postoffice_334841\\shubha K C_Postoffice_334841\\CaseStudyPO\\CaseStudyPO\\DeletePostOfficeAccount.aspx.cs",
+              "RelativeToolTip": "CaseStudyPO\\DeletePostOfficeAccount.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:40:22.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
